@@ -52,8 +52,10 @@ cd AI-Powered-ChatBot
 pip install openai sqlite3
 ```
 
-3. Add your API key:
-
+3. Add your API key to .env file
+```
+OPENAI_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXX"
+```
 
 ## 📄 License
 
