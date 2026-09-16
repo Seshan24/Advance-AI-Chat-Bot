@@ -66,7 +66,6 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Seshan Rodrigo**
-
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - GitHub: https://github.com/yourusername
 
