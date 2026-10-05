@@ -2,7 +2,7 @@
 
 An intelligent AI-powered chatbot built using Python and modern AI APIs. This project demonstrates how to create a conversational assistant capable of handling user queries, maintaining context, and integrating tool-calling functionality.
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
+[![Follow Me](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
 
 ---
 
