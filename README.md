@@ -57,10 +57,6 @@ pip install openai sqlite3
 OPENAI_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXX"
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
